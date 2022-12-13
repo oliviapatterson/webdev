@@ -1,0 +1,24 @@
+body{
+    font-family: "Georgia";
+    background-color:rgba(141, 125, 104, 0.636);
+    color: white;
+    margin-left: 3rem;
+
+  }
+  button{
+    size: 1rem;
+    text-decoration: none;
+    color: aqua;
+  }
+
+  button a{
+    color: black;    
+    text-decoration: none;
+  }
+  .text{
+    margin: 0;
+  }
+  .text a{
+    text-decoration: none;
+
+  }
